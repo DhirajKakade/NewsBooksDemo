@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">News or Books Api Demo</string>
+    <string name="news_api_key">3f914facdea84f84b92fd2cce3ea7bfd</string>
+</resources>
